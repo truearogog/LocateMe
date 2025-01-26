@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<ItemGroup>
+		<PackageReference Include="AspNetCore.HealthChecks.NpgSql" Version="8.0.2" />
+		<PackageReference Include="EFCore.NamingConventions" Version="8.0.3" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.1.39" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.11" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\LocateMe.Application\LocateMe.Application.csproj" />
+		<ProjectReference Include="..\LocateMe.Domain\LocateMe.Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Identity\" />
+	</ItemGroup>
+
+</Project>

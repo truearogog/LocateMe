@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\LocateMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC622DE-C35B-41DA-B1D6-33FD8F87C64D}|LocateMe.Domain\\LocateMe.Domain.csproj|d:\\repos\\locateme\\locateme.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC622DE-C35B-41DA-B1D6-33FD8F87C64D}|LocateMe.Domain\\LocateMe.Domain.csproj|solutionrelative:locateme.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC622DE-C35B-41DA-B1D6-33FD8F87C64D}|LocateMe.Domain\\LocateMe.Domain.csproj|d:\\repos\\locateme\\locateme.domain\\users\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC622DE-C35B-41DA-B1D6-33FD8F87C64D}|LocateMe.Domain\\LocateMe.Domain.csproj|solutionrelative:locateme.domain\\users\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740CDCEA-E8EB-441E-831B-C5DCA9DB3694}|LocateMe.Infrastructure\\LocateMe.Infrastructure.csproj|d:\\repos\\locateme\\locateme.infrastructure\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740CDCEA-E8EB-441E-831B-C5DCA9DB3694}|LocateMe.Infrastructure\\LocateMe.Infrastructure.csproj|solutionrelative:locateme.infrastructure\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740CDCEA-E8EB-441E-831B-C5DCA9DB3694}|LocateMe.Infrastructure\\LocateMe.Infrastructure.csproj|d:\\repos\\locateme\\locateme.infrastructure\\database\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740CDCEA-E8EB-441E-831B-C5DCA9DB3694}|LocateMe.Infrastructure\\LocateMe.Infrastructure.csproj|solutionrelative:locateme.infrastructure\\database\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\repos\\LocateMe\\LocateMe.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "LocateMe.Domain\\Users\\User.cs",
+              "ToolTip": "D:\\repos\\LocateMe\\LocateMe.Domain\\Users\\User.cs",
+              "RelativeToolTip": "LocateMe.Domain\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:19:08.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\repos\\LocateMe\\LocateMe.Domain\\Users\\Role.cs",
+              "RelativeDocumentMoniker": "LocateMe.Domain\\Users\\Role.cs",
+              "ToolTip": "D:\\repos\\LocateMe\\LocateMe.Domain\\Users\\Role.cs",
+              "RelativeToolTip": "LocateMe.Domain\\Users\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:19:05.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\repos\\LocateMe\\LocateMe.Infrastructure\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LocateMe.Infrastructure\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\repos\\LocateMe\\LocateMe.Infrastructure\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LocateMe.Infrastructure\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:12:58.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbFactory.cs",
+              "DocumentMoniker": "D:\\repos\\LocateMe\\LocateMe.Infrastructure\\Database\\DbFactory.cs",
+              "RelativeDocumentMoniker": "LocateMe.Infrastructure\\Database\\DbFactory.cs",
+              "ToolTip": "D:\\repos\\LocateMe\\LocateMe.Infrastructure\\Database\\DbFactory.cs",
+              "RelativeToolTip": "LocateMe.Infrastructure\\Database\\DbFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:11:54.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

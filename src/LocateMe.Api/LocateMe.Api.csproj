@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <UserSecretsId>1e23d18e-9546-4d85-a2a5-eccbc80fc0c1</UserSecretsId>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.8" />
+        <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+        <PackageReference Include="Serilog" Version="4.0.1" />
+        <PackageReference Include="Serilog.AspNetCore" Version="8.0.2" />
+        <PackageReference Include="Serilog.Sinks.Seq" Version="8.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\LocateMe.Api.ServiceDefaults\LocateMe.Api.ServiceDefaults.csproj" />
+        <ProjectReference Include="..\LocateMe.Domain\LocateMe.Domain.csproj" />
+        <ProjectReference Include="..\LocateMe.Infrastructure\LocateMe.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

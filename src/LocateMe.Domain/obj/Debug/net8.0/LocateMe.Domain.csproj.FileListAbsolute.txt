@@ -1,0 +1,15 @@
+D:\repos\LocateMe\LocateMe.Domain\bin\Debug\net8.0\LocateMe.Domain.deps.json
+D:\repos\LocateMe\LocateMe.Domain\bin\Debug\net8.0\LocateMe.Domain.dll
+D:\repos\LocateMe\LocateMe.Domain\bin\Debug\net8.0\LocateMe.Domain.pdb
+D:\repos\LocateMe\LocateMe.Domain\bin\Debug\net8.0\LocateMe.Core.dll
+D:\repos\LocateMe\LocateMe.Domain\bin\Debug\net8.0\LocateMe.Core.pdb
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\LocateMe.Domain.csproj.AssemblyReference.cache
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\LocateMe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\LocateMe.Domain.AssemblyInfoInputs.cache
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\LocateMe.Domain.AssemblyInfo.cs
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\LocateMe.Domain.csproj.CoreCompileInputs.cache
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\LocateMe.A342B5FC.Up2Date
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\LocateMe.Domain.dll
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\refint\LocateMe.Domain.dll
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\LocateMe.Domain.pdb
+D:\repos\LocateMe\LocateMe.Domain\obj\Debug\net8.0\ref\LocateMe.Domain.dll

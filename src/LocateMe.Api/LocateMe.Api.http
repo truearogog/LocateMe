@@ -1,0 +1,6 @@
+@LocateMe.Api_HostAddress = http://localhost:5261
+
+GET {{LocateMe.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
