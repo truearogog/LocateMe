@@ -11,6 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocateMe.Api.ServiceDefault
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F06D138-0146-422A-921B-1238A9F42090}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		directory.build.props = directory.build.props
 	EndProjectSection
 EndProject
@@ -21,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocateMe.Infrastructure", "src\LocateMe.Infrastructure\LocateMe.Infrastructure.csproj", "{740CDCEA-E8EB-441E-831B-C5DCA9DB3694}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocateMe.Application", "src\LocateMe.Application\LocateMe.Application.csproj", "{3C7BBBD4-1A26-462B-94FD-212E501A47BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocateMe.Infrastructure.Email", "src\LocateMe.Infrastructure.Email\LocateMe.Infrastructure.Email.csproj", "{C34E5E2A-3F3A-42C7-9109-8C3775AF0AD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +59,10 @@ Global
 		{3C7BBBD4-1A26-462B-94FD-212E501A47BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C7BBBD4-1A26-462B-94FD-212E501A47BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C7BBBD4-1A26-462B-94FD-212E501A47BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34E5E2A-3F3A-42C7-9109-8C3775AF0AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34E5E2A-3F3A-42C7-9109-8C3775AF0AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34E5E2A-3F3A-42C7-9109-8C3775AF0AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34E5E2A-3F3A-42C7-9109-8C3775AF0AD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

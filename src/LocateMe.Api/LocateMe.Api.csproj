@@ -6,18 +6,22 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="8.0.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.12" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.8" />
         <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
         <PackageReference Include="Serilog" Version="4.0.1" />
         <PackageReference Include="Serilog.AspNetCore" Version="8.0.2" />
         <PackageReference Include="Serilog.Sinks.Seq" Version="8.0.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="8.0.2" />
     </ItemGroup>
 
     <ItemGroup>
         <ProjectReference Include="..\LocateMe.Api.ServiceDefaults\LocateMe.Api.ServiceDefaults.csproj" />
         <ProjectReference Include="..\LocateMe.Domain\LocateMe.Domain.csproj" />
         <ProjectReference Include="..\LocateMe.Infrastructure\LocateMe.Infrastructure.csproj" />
+        <ProjectReference Include="..\LocateMe.Infrastructure.Email\LocateMe.Infrastructure.Email.csproj" />
     </ItemGroup>
 
 </Project>

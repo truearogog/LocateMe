@@ -11,15 +11,12 @@
 		</PackageReference>
 		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
 		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.3.1" />
 	</ItemGroup>
 
 	<ItemGroup>
 		<ProjectReference Include="..\LocateMe.Application\LocateMe.Application.csproj" />
 		<ProjectReference Include="..\LocateMe.Domain\LocateMe.Domain.csproj" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Folder Include="Identity\" />
 	</ItemGroup>
 
 </Project>

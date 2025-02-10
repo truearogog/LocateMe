@@ -26,7 +26,7 @@ internal sealed class ApplicationDbContext(
     {
         IEnumerable<EntityEntry> entries = ChangeTracker
             .Entries()
-            .Where(entry => entry.Entity is IEntity && entry.State is EntityState.Added or EntityState.Modified);
+            .Where(entry => entry is { Entity: IEntity, State: EntityState.Added or EntityState.Modified });
 
         foreach (EntityEntry entry in entries)
         {

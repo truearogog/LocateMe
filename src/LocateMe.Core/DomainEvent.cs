@@ -1,3 +1,3 @@
 ﻿namespace LocateMe.Core;
 
-internal abstract record DomainEvent(Guid Id) : IDomainEvent;
+public abstract record DomainEvent(Guid Id) : IDomainEvent;
